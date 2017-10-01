@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/new(4)/sql/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/src/lib/c3p0-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/src/lib/c3p0-0.9.1-pre6.src.zip"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/src/lib/jboss-common-jdbc-wrapper-src.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/src/lib/jboss-common-jdbc-wrapper.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/src/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
